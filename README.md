@@ -1,4 +1,4 @@
 # demo 
-itmismmy 1st Repositry
+it is my 1st Repositry
 <br>
 author :- Nilesh swain 
